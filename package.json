@@ -1,0 +1,24 @@
+{
+  "name": "grunt-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zengyuqing0903/grunt-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zengyuqing0903/grunt-demo/issues"
+  },
+  "homepage": "https://github.com/zengyuqing0903/grunt-demo#readme",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-htmlhint": "^0.9.13"
+  }
+}
